@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Match4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Match4_jar</output-path>
+    <root id="archive" name="Match4.jar">
+      <element id="module-output" name="Match4" />
+    </root>
+  </artifact>
+</component>
